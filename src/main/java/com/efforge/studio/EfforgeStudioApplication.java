@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EfforgeStudioApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EfforgeStudioApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EfforgeStudioApplication.class, args);
+    }
 
 }
