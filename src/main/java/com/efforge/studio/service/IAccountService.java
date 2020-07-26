@@ -1,4 +1,6 @@
-package com.efforge.studio.rest.user;
+package com.efforge.studio.service;
+
+import com.efforge.studio.model.Account;
 
 import java.util.List;
 
